@@ -1,0 +1,27 @@
+body {
+    font-size: 65%;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+}
+header 
+h1,
+li {
+    height: 2rem;
+}
+
+main div {
+    display: flex;
+
+}
+
+main button {
+    position: absolute;
+    background-color: #f3d900;
+}
+
+main h2 {
+    font-size: 48px;
+}
